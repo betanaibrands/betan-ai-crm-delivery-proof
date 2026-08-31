@@ -8,6 +8,6 @@
   "real_customer_data": false,
   "client_reference": false,
   "production_ready": false,
-  "publication_authorized": false,
+  "publication_authorized": true,
   "workflow_active": false
 }
