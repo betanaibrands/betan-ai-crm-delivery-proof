@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "artifact": "crm-deal-to-delivery-handoff",
+  "owner": "BETAN AI",
+  "proof_level": "controlled_offline_demo",
+  "acceptance_cases": 20,
+  "external_calls": 0,
+  "real_customer_data": false,
+  "client_reference": false,
+  "production_ready": false,
+  "publication_authorized": false,
+  "workflow_active": false
+}
