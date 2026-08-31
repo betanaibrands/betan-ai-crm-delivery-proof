@@ -1,5 +1,7 @@
 # CRM Deal-to-Delivery Handoff
 
+[![Verify controlled proof](https://github.com/betanaibrands/betan-ai-crm-delivery-proof/actions/workflows/verify.yml/badge.svg)](https://github.com/betanaibrands/betan-ai-crm-delivery-proof/actions/workflows/verify.yml)
+
 An executable, controlled proof of a reliable handoff from a won CRM deal to
 delivery operations.
 
